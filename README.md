@@ -18,7 +18,7 @@ This dataset represents a cross-sectional study conducted during the 2018 Nigeri
 - **Data Preprocessing:** Addressed missing values and converted data types for model compatibility.
 - **Machine Learning Model:** Utilized RandomForestClassifier:
   - Trained on a split dataset (80% training, 20% testing).
-  - Achieved a model accuracy of 97.02%.
+  - Achieved a model accuracy of 99.38%.
 
 ### Model Performance Analysis
 - While the model showcases high accuracy, further domain-specific considerations might be needed to determine practical implications.
